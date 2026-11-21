@@ -11,7 +11,7 @@ Max Payne 2001 PC and MaxEd
 ## Base gameplay
 [![Max Payne 0. 2 - MacOS & Sounds Testing](https://img.youtube.com/vi/cY0Gk71TAGI/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Y1kwR2s3MVRBR0k)
 
-[![Max Payne E3 2001 Trailer 4K Remake](https://img.youtube.com/vi/0bfG4oLExqE/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MGJmRzRvTEV4cUU)
+[![Max Payne E3 2001 Trailer 4K Remake](https://i.ytimg.com/vi/B-SAWK9Zb1A/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MGJmRzRvTEV4cUU)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
@@ -22,7 +22,7 @@ Max Payne 2001 PC and MaxEd
 ## Reference links
 [https://archive.org/details/sinatar_Max_Payne_2001](https://archive.org/details/sinatar_Max_Payne_2001)
 
-[https://archive.org/details/Max_Payne_Reissue_USA](https://archive.org/details/Max_Payne_Reissue_USA)
+[![https://archive.org/details/Max_Payne_Reissue_USA](https://raw.githubusercontent.com/igiteam/max-payne-2001/refs/heads/main/max-payne-cd-cover.png)](https://archive.org/details/Max_Payne_Reissue_USA)
 
 
 # payne-recomp
