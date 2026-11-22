@@ -13,6 +13,8 @@ Max Payne 2001 PC and MaxEd
 
 [![Max Payne E3 2001 Trailer 4K Remake](https://i.ytimg.com/vi/B-SAWK9Zb1A/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MGJmRzRvTEV4cUU)
 
+[![MaxEd](https://raw.githubusercontent.com/igiteam/max-payne-2001/refs/heads/main/maxed.jpg)](https://ytembed.macosxjs.com/?ekUydTBXcEl6OXc)
+
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
 
@@ -21,6 +23,10 @@ Max Payne 2001 PC and MaxEd
 
 ## Reference links
 [https://archive.org/details/sinatar_Max_Payne_2001](https://archive.org/details/sinatar_Max_Payne_2001)
+
+[https://www.moddb.com/games/max-payne/tutorials](https://www.moddb.com/games/max-payne/tutorials)
+
+[https://www.moddb.com/games/max-payne/downloads/max-fx-tools](https://www.moddb.com/games/max-payne/downloads/max-fx-tools)
 
 [![Max Payne MaxED Tutorials](https://raw.githubusercontent.com/igiteam/max-payne-2001/refs/heads/main/max-payne-max-ed.png)](https://web.archive.org/web/20030610151351/http://3drealms.com/max/tutorials/index.html)
 
