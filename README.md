@@ -22,7 +22,7 @@ Max Payne 2001 PC and MaxEd
 ## Reference links
 [https://archive.org/details/sinatar_Max_Payne_2001](https://archive.org/details/sinatar_Max_Payne_2001)
 
-[![Max Payne MaxED Tutorials](https://raw.githubusercontent.com/igiteam/max-payne-2001/refs/heads/main/max-payne-max-ed.png)(https://web.archive.org/web/20030610151351/http://3drealms.com/max/tutorials/index.html)
+[![Max Payne MaxED Tutorials](https://raw.githubusercontent.com/igiteam/max-payne-2001/refs/heads/main/max-payne-max-ed.png)](https://web.archive.org/web/20030610151351/http://3drealms.com/max/tutorials/index.html)
 
 [![https://archive.org/details/Max_Payne_Reissue_USA](https://raw.githubusercontent.com/igiteam/max-payne-2001/refs/heads/main/max-payne-cd-cover.png)](https://archive.org/details/Max_Payne_Reissue_USA)
 
