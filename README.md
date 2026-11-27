@@ -15,6 +15,11 @@ Max Payne 2001 PC and MaxEd
 
 [![MaxEd](https://raw.githubusercontent.com/igiteam/max-payne-2001/refs/heads/main/maxed.jpg)](https://ytembed.macosxjs.com/?ekUydTBXcEl6OXc)
 
+![https://raw.githubusercontent.com/igiteam/max-payne-2001/main/max_payne_milkshape_1_8_5_2.jpg](https://raw.githubusercontent.com/igiteam/max-payne-2001/main/max_payne_milkshape_1_8_5_2.jpg)
+
+![https://raw.githubusercontent.com/igiteam/max-payne-2001/main/max_payne_milkshape_1_8_5.jpg](https://raw.githubusercontent.com/igiteam/max-payne-2001/main/max_payne_milkshape_1_8_5.jpg)
+
+
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
 
